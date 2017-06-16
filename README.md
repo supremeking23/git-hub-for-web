@@ -5,4 +5,4 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 
 
 
-##[View the companion reference site](-copy link from github-)
+##[View the companion reference site]( https://supremeking23.github.io/git-hub-for-web/)
